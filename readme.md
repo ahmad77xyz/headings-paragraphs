@@ -1,2 +1,3 @@
-#HTML
-Intro to Headding and Paragraphs in HTML
+# HTML
+
+## Intro to Headding and Paragraphs in HTML
